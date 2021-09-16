@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             //Commit by other developer and merged to master 
+            //Commit included from feature branch
         }
     }
 }

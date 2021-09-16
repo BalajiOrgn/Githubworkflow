@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Apps\\Github\\CSharpTraining\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Apps\\Github\\Githubworkflow\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Apps\\Github\\CSharpTraining\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Apps\\Github\\Githubworkflow\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Apps\\Github\\CSharpTraining\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Apps\\Github\\Githubworkflow\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Apps\\Github\\CSharpTraining\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\Apps\\Github\\Githubworkflow\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\GTrusted\\.nuget\\packages\\",
-        "outputPath": "E:\\Apps\\Github\\CSharpTraining\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Apps\\Github\\Githubworkflow\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
