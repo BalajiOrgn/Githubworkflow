@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //Commit by other developer and merged to master 
             //Commit included from feature branch
         }
     }
